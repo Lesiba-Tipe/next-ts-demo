@@ -14,14 +14,10 @@ export default function Home() {
         />
         <ol className="list-inside list-decimal text-sm/6 text-center sm:text-left font-[family-name:var(--font-geist-mono)]">
           <li className="mb-2 tracking-[-.01em]">
-            Get started by editing{" "}
-            <code className="bg-black/[.05] dark:bg-white/[.06] px-1 py-0.5 rounded font-[family-name:var(--font-geist-mono)] font-semibold">
-              src/app/page.tsx
-            </code>
-            .
+            Devs are still cooking....
           </li>
           <li className="tracking-[-.01em]">
-            Save and see your changes instantly.
+            While waiting, Please check out our social media and grab yourself some Kota.
           </li>
         </ol>
 
@@ -80,7 +76,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Examples
+          Facebook
         </a>
         <a
           className="flex items-center gap-2 hover:underline hover:underline-offset-4"
@@ -95,7 +91,7 @@ export default function Home() {
             width={16}
             height={16}
           />
-          Go to nextjs.org →
+          Tik Tok
         </a>
       </footer>
     </div>
